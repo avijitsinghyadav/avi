@@ -1,0 +1,40 @@
+
+body{
+    background-color: antiquewhite;
+    font-weight: 100;
+    h1,h2{
+        border: 1px solid black;
+        margin-left:150px;
+        margin-right:150px;
+    }
+    .underline{
+         text-decoration:underline ;
+    }
+}
+h1{
+    font-family:algerian;
+    font-color:black;
+    text-align:center;
+    font-size:100px;
+
+}
+p{
+    font-size:150%;
+    font-style:aerial;
+    font-color:solid black;
+    text-align: center;
+    font-size: 30px;
+    text-align: left;
+
+}
+a{
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;}
+    td{
+        border: 2px solid black;
+        background-color:cadetblue;
+    }
+    th{
+        border: 2px solid black;
+        background-color: cadetblue;
+    }
